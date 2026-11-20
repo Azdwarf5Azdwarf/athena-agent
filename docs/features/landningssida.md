@@ -8,17 +8,25 @@ Planen runt om: `docs/features/athena-igen.md`. Bössorna: `docs/features/swish-
 
 Förebild: poi-admin #6, en första sida och inget annat. Här är sidan inte en inloggning. Den är scenen, telefonen, entiteten och tratten. Vi rör inte pengar.
 
-Sidan är en kolumn i telefonen, från SMS:et. På plattan i ståndet är mitten fortfarande mitten: poi i glasets mitt, frågan vid sidan, som säljaren står vid sidan av dörren.
+Sidan är en kolumn. SMS:et och NFC-trycket på bössan öppnar samma adress. Först Fågelcentralens landning. Sedan Athenas storyline.
 
 Inget byggs.
 
 ## Texten, att klistra in
 
+Först, landningen:
+
+> Fågelcentralen kan inte ta emot fåglar just nu. Trycket är för högt. De är inte den här sidan. De svarar i telefon, på sina tider.
+>
+> Swish går till Fågelcentralen.
+>
+> Vi rör den inte.
+
+Sedan storylinen:
+
 > Vi möter henne igen utanför kyrkan i Uddevalla. Hon är skadad.
 >
 > Athena är en svensk volontär. Hon hjälper fåglar i Sverige.
->
-> Fågelcentralen kan inte ta emot fåglar just nu. Trycket är för högt. De är inte den här sidan. De svarar i telefon, på sina tider.
 >
 > Ring. Athena svarar.
 >
@@ -26,53 +34,39 @@ Inget byggs.
 >
 > Athena har hittat sin uggla igen.
 
-Frågan, bredvid mitten på plattan och under läget i telefonen:
-
-> Swish går till Fågelcentralen.
->
-> Vi rör den inte.
-
 ## Sidan, uppifrån
 
-### 1. Mitten, poi
+### 1. Fågelcentralens landning
 
-Bara scenen.
-
-> Vi möter henne igen utanför kyrkan i Uddevalla. Hon är skadad.
-
-Under den, namnet:
-
-> Athena är en svensk volontär. Hon hjälper fåglar i Sverige.
-
-Ett märke, ingen karta: `Här.` På ståndet är ordet platsen man står på. I telefonen efter SMS:et är det samma plats. Inga koordinater, inga andra punkter i mitten. Länken är sidan, inte en karta. Kyrkan förblir "kyrkan i Uddevalla".
-
-### 2. Ringen
-
-> Ring. Athena svarar.
-
-Numret, när det finns, står här. Tills dess har raden inga siffror. Fågelcentralens akuttelefon står inte här, så ingen ringer dit och tror att det är hon.
-
-### 3. Läget
+Det första som syns efter trycket.
 
 > Fågelcentralen kan inte ta emot fåglar just nu. Trycket är för högt. De är inte den här sidan. De svarar i telefon, på sina tider.
 
-### 4. Frågan
-
-En mening, sedan deras QR. Inga belopp. Inget "ge nu". Ingen räknare. Vi har ingen summa.
-
 > Swish går till Fågelcentralen.
 
-QR för 123 25 35 912, märkning `Fågelcentralen`. Numret under koden. Bankgiro 740-8198 i mindre stil. Källa: deras egen sida, läst 20 november 2026, [fagelcentralen.se/stod-oss](https://fagelcentralen.se/stod-oss/).
+QR för 123 25 35 912, märkning `Fågelcentralen`. Numret under koden. Bankgiro 740-8198 i mindre stil. Källa: deras egen sida, läst 20 november 2026, [fagelcentralen.se/stod-oss](https://fagelcentralen.se/stod-oss/). Inga belopp. Inget "ge nu". Ingen räknare.
 
 > Vi rör den inte.
 
-Ingen bössa i handen, och ingen bössa på marken. Numret på glaset är deras, redan publicerat. Personen är entiteten. Se `docs/features/swish-bossor.md`.
+NFC öppnar den här sidan. Den öppnar inte fagelcentralen.se, för storylinen kan inte skrivas dit. Deras sajt förblir deras.
 
-### 5. Efter samtalet
+### 2. Athenas storyline
+
+Under landningen.
+
+> Vi möter henne igen utanför kyrkan i Uddevalla. Hon är skadad.
+
+> Athena är en svensk volontär. Hon hjälper fåglar i Sverige.
+
+Ett märke, ingen karta: `Här.` På ståndet är ordet platsen man står på. Inga koordinater. Kyrkan förblir "kyrkan i Uddevalla".
+
+> Ring. Athena svarar.
+
+Numret, när det finns, står här. Tills dess har raden inga siffror. Fågelcentralens akuttelefon står inte här.
 
 > Efter samtalet tar entiteten vid. Tratten är Fågelcentralens Swish.
 
-### 6. Hittat en fågel
+### 3. Hittat en fågel
 
 Tre rader, sedan stopp. Hela listan är `docs/raddning.md`. Sidan trycker inte privata rehabiliterares mobilnummer.
 
@@ -81,17 +75,17 @@ Tre rader, sedan stopp. Hela listan är `docs/raddning.md`. Sidan trycker inte p
 - Annat län: [kfv-riks.se/Kontakt](https://kfv-riks.se/Kontakt).
 - Död örn, falk, glada, kärrhök, fiskgjuse eller någon av de stora ugglorna som är statens vilt: polisen 114 14. Inte ståndet.
 
-### 7. Slutraden
+### 4. Slutraden
 
 > Athena har hittat sin uggla igen.
 
 ## På glaset
 
-Plattan låses till sidan. Ljusstyrkan uppe. En laminerad A4 med samma QR när solen tar skärmen. A4:an säger samma mening och samma nummer. Den lägger inte till en berättelse.
+Plattan låses till sidan, öppnad på Fågelcentralens landning. Ljusstyrkan uppe. En laminerad A4 med samma QR när solen tar skärmen. A4:an säger samma mening och samma nummer. Den lägger inte till en berättelse. NFC på bössan öppnar samma adress.
 
 ## Vad sidan är
 
-- En sida. Scenen i mitten, vem hon är, läget hos Fågelcentralen, att man ringer, deras Swish vid sidan, tre rader om hitta en fågel, slutraden.
+- En sida. Först Fågelcentralens landning och deras Swish. Sedan Athenas storyline, att man ringer, tre rader om hitta en fågel, slutraden.
 - Numret i ringen är hennes nummer, när det finns.
 - En tratt till Fågelcentralens Swish. Vi rör inte pengarna.
 
@@ -109,7 +103,8 @@ Plattan låses till sidan. Ljusstyrkan uppe. En laminerad A4 med samma QR när s
 - [ ] Vilket nummer som står i ringen
 - [x] Om gåvan pekar på Fågelcentralens egna sätt att ta emot: ja, tratten är deras Swish (2026-11-20)
 - [x] Fågelcentralens Swish-nummer verifierat mot fagelcentralen.se/stod-oss, 20 november 2026: 123 25 35 912, märk `Fågelcentralen`. Bankgiro 740-8198
-- [x] Vi ställer inte ut en bössa och vi rör inte pengar. Entiteten larpas. Tratten är deras nummer (2026-11-20, senare)
+- [x] Bössan larpar. Mynten sitter i. NFC öppnar den här sidan, först deras landning, sedan storylinen. Vi tar inte emot pengar (2026-11-20, bössan)
+- [ ] Bilden av entiteten på tröjan och hoodien. Ingen bild ligger i `media/2026-11-20/` än
 - [ ] Repo `poi-frontend-athena` finns inte på GitHub än. Texten väntar här
 
 Inget byggs.
