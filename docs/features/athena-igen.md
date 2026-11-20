@@ -28,7 +28,7 @@ Athena har hittat sin uggla igen.
 | poi-backend | Rösten som svarar | `docs/features/samtalet.md` |
 | poi-sms | SMS-länken efter det som sagts | `docs/features/tratten.md` |
 
-poi-humans är inget fjärde repo. Det är människorna som tar vid efter samtalet och samlar gåvorna till Fågelcentralen. Samma hållning som poi-crm #5: människorna är redan där.
+poi-humans är inget fjärde repo. Det är människorna som tar vid efter samtalet och larpar entiteten. Tratten är Fågelcentralens Swish. De rör inte pengar. Samma hållning som poi-crm #5: människorna är redan där.
 
 `poi-sms` och `poi-frontend-athena` har inga GitHub-repo under de namnen. `poi-sms` nämns som lokal katalog `~/dev/poi-sms` i poi-crm #3. Issues ligger i athena-agent, redo att klistras in där de hör hemma. poi-backend finns, och får en egen issue som pekar hit.
 
@@ -38,10 +38,14 @@ Nyligen: de kan inte ta emot fåglar, på grund av trycket. Antecknat i `docs/fa
 
 Athena är inte Fågelcentralen. Hon säger det. De svarar inte på mejl eller i sociala medier, bara i telefon, och bara på sina tider.
 
-Gåvorna är till dem. Inte till Athena, och inte till ett konto vi själva håller, förrän det är sagt hur en gåva når just dem.
+Gåvorna är deras Swish, 123 25 35 912, märkt Fågelcentralen. Vi rör inte pengarna.
+
+## Ståndet
+
+Målet efter sidan: en person står i centrum i Uddevalla, utanför en butik, och larpar entiteten. Pure love. Hon möter många människor, för the quantum birds. Bilden sitter på tröjan och hoodien. Bössan har mynten i sig. NFC öppnar sidan: först Fågelcentralens landning, sedan Athenas storyline. Vi tar inte emot något. Planen och det som ska köpas: `docs/features/standet.md`. Resurserna: `docs/raddning.md`. Sidan, hela: `docs/features/landningssida.md`.
 
 ## Inte här
 
 - Inget bygge, ingen deploy, inget riktigt SMS.
-- Ingen betalningsknapp.
+- Inga pengar i våra händer. Tratten är deras Swish.
 - Inget löfte om att en fågel blir mottagen.
