@@ -14,6 +14,8 @@ Det är hela scenen. Kyrkan är inte namngiven. Hur hon skadades är inte sagt.
 
 Tråden från det mötet sparas i `docs/trad/2026-11-20-grok.md`, för senare. Orden där är Dennis egna, ur konversationen med Grok 2026-11-20. Ingen äldre tråd låg i repona.
 
+Gobri och de andra gör korten för 20 november 2026. Kortet för mötet är `docs/cards/2026-11-20-athena.md`. Stämpeln är Venus och Jupiter: `docs/features/venus-jupiter.md`. Bilderna från dagen har en tom mapp, `media/2026-11-20/`.
+
 ## Slutraden
 
 Athena har hittat sin uggla igen.
