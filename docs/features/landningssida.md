@@ -24,6 +24,10 @@ Först, landningen:
 
 Sedan storylinen:
 
+> Pure love.
+>
+> Vi möter många människor. För the quantum birds.
+>
 > Vi möter henne igen utanför kyrkan i Uddevalla. Hon är skadad.
 >
 > Athena är en svensk volontär. Hon hjälper fåglar i Sverige.
@@ -52,7 +56,11 @@ NFC öppnar den här sidan. Den öppnar inte fagelcentralen.se, för storylinen 
 
 ### 2. Athenas storyline
 
-Under landningen.
+Under landningen. Orden är Dennis, 20 november 2026.
+
+> Pure love.
+>
+> Vi möter många människor. För the quantum birds.
 
 > Vi möter henne igen utanför kyrkan i Uddevalla. Hon är skadad.
 

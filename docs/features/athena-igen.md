@@ -42,7 +42,7 @@ Gåvorna är deras Swish, 123 25 35 912, märkt Fågelcentralen. Vi rör inte pe
 
 ## Ståndet
 
-Målet efter sidan: en person står i centrum i Uddevalla, utanför en butik, och larpar entiteten. Bilden sitter på tröjan och hoodien. Bössan har mynten i sig. NFC öppnar sidan: först Fågelcentralens landning, sedan Athenas storyline. Vi tar inte emot något. Planen och det som ska köpas: `docs/features/standet.md`. Resurserna: `docs/raddning.md`. Sidan, hela: `docs/features/landningssida.md`.
+Målet efter sidan: en person står i centrum i Uddevalla, utanför en butik, och larpar entiteten. Pure love. Hon möter många människor, för the quantum birds. Bilden sitter på tröjan och hoodien. Bössan har mynten i sig. NFC öppnar sidan: först Fågelcentralens landning, sedan Athenas storyline. Vi tar inte emot något. Planen och det som ska köpas: `docs/features/standet.md`. Resurserna: `docs/raddning.md`. Sidan, hela: `docs/features/landningssida.md`.
 
 ## Inte här
 

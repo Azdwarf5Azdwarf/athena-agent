@@ -8,7 +8,7 @@ Vi rör inte pengar. Beslutet: `docs/features/swish-bossor.md`.
 
 ## Målet
 
-En person står i centrum i Uddevalla, utanför en butik, och larpar entiteten. Athena är entiteten. Bilden sitter på tröjan och på hoodien. Bössan står bredvid, med mynten redan i. Ett tryck på bössan öppnar sidan: först Fågelcentralens landning, sedan Athenas storyline. Inte i gånglinjen. Inte med ett tält på torget. Ingen ny slant i handen.
+En person står i centrum i Uddevalla, utanför en butik, och larpar entiteten. Athena är entiteten. Bilden sitter på tröjan och på hoodien. Bössan står bredvid, med mynten redan i. Ett tryck på bössan öppnar sidan: först Fågelcentralens landning, sedan Athenas storyline. Här är ren kärlek. Hon möter många människor, för the quantum birds. Inte i gånglinjen. Inte med ett tält på torget. Ingen ny slant i handen.
 
 Poi är sidan, i mitten av glaset. Kyrkan är inte namngiven. Kyrkogården är i Uddevalla jämställd med offentlig plats. Ståndet står inte där.
 
@@ -65,7 +65,7 @@ Gångbanan lämnas fri. I grannkommunernas anvisningar är kvarvarande gångutry
 1. Butiken har sagt ja till en namngiven timme. Personen har tröjan eller hoodien på sig. Bössan är stängd, mynten sitter i.
 2. Personen står vid dörren, utanför gånglinjen. Stället bär plattan. Bössan står vid stället.
 3. Ett tryck på bössan öppnar sidan. Först Fågelcentralens landning, sedan Athenas storyline. Plattan visar samma sida.
-4. Meningen är en: `Fågelcentralen tar inte emot fåglar just nu. Swish går till dem.` Sedan tystnad. Inget belopp. Ingenting tas emot.
+4. Meningen är en: `Pure love. Vi möter många människor. För the quantum birds.` Sedan mötet. Inget belopp. Ingenting tas emot. Landningen på sidan bär läget och Swish.
 5. Har någon en fågel visas sidans korta lista. Inget löfte om plats.
 6. Efteråt finns inget att räkna. Mynten som satt i sitter kvar. Swishen var deras.
 
