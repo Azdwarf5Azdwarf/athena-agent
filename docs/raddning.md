@@ -49,4 +49,4 @@ Viltvårdare är inte rehabiliterare. De kan fånga och avliva. De tar inte emot
 
 Privata mobilnummer ur KFV-listan. Kalender, holk, Sponsorhuset, Facebook-insamling. Det är Fågelcentralens egna sätt, på deras sida. Ståndet säljer inget av det.
 
-Gåvan på ståndet har en mottagare: Fågelcentralen. Djurambulansens Swish 123 618 82 47 och bankgiro 146-3934 är deras, publicerade på [deras gåvosida](https://www.svenskadjurambulansen.se/stod-oss/gava/). De får ingen bössa på första ståndet.
+Tratten på ståndet har en mottagare: Fågelcentralens Swish. Vi rör inte pengarna. Djurambulansens Swish 123 618 82 47 och bankgiro 146-3934 är deras, publicerade på [deras gåvosida](https://www.svenskadjurambulansen.se/stod-oss/gava/). Första ståndet trattar inte dit.

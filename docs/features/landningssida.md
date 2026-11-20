@@ -6,7 +6,7 @@ Kopieras in i **poi-frontend-athena**.
 
 Planen runt om: `docs/features/athena-igen.md`. Bössorna: `docs/features/swish-bossor.md`. Resurserna: `docs/raddning.md`. Ståndet som visar sidan: `docs/features/standet.md`.
 
-Förebild: poi-admin #6, en första sida och inget annat. Här är sidan inte en inloggning. Den är scenen, telefonen, tratten och bössan.
+Förebild: poi-admin #6, en första sida och inget annat. Här är sidan inte en inloggning. Den är scenen, telefonen, entiteten och tratten. Vi rör inte pengar.
 
 Sidan är en kolumn i telefonen, från SMS:et. På plattan i ståndet är mitten fortfarande mitten: poi i glasets mitt, frågan vid sidan, som säljaren står vid sidan av dörren.
 
@@ -22,15 +22,15 @@ Inget byggs.
 >
 > Ring. Athena svarar.
 >
-> Efter samtalet tar människor vid. De samlar gåvor till Fågelcentralen.
+> Efter samtalet tar entiteten vid. Tratten är Fågelcentralens Swish.
 >
 > Athena har hittat sin uggla igen.
 
 Frågan, bredvid mitten på plattan och under läget i telefonen:
 
-> En gåva till Fågelcentralen.
+> Swish går till Fågelcentralen.
 >
-> Swish går till Fågelcentralen. Inte till Athena.
+> Vi rör den inte.
 
 ## Sidan, uppifrån
 
@@ -58,19 +58,19 @@ Numret, när det finns, står här. Tills dess har raden inga siffror. Fågelcen
 
 ### 4. Frågan
 
-En mening, sedan bössan. Inga belopp. Inget "ge nu". Ingen räknare. Swish visar inte oss hur mycket som kommit in.
+En mening, sedan deras QR. Inga belopp. Inget "ge nu". Ingen räknare. Vi har ingen summa.
 
-> En gåva till Fågelcentralen.
+> Swish går till Fågelcentralen.
 
 QR för 123 25 35 912, märkning `Fågelcentralen`. Numret under koden. Bankgiro 740-8198 i mindre stil. Källa: deras egen sida, läst 20 november 2026, [fagelcentralen.se/stod-oss](https://fagelcentralen.se/stod-oss/).
 
-> Swish går till Fågelcentralen. Inte till Athena.
+> Vi rör den inte.
 
-Bössan på ett stånd ute väntar på deras ja. Numret är publicerat. Att stå med deras namn utanför en butik är ett steg till, och det steget är inte taget. Se `docs/features/swish-bossor.md`.
+Ingen bössa i handen, och ingen bössa på marken. Numret på glaset är deras, redan publicerat. Personen är entiteten. Se `docs/features/swish-bossor.md`.
 
 ### 5. Efter samtalet
 
-> Efter samtalet tar människor vid. De samlar gåvor till Fågelcentralen.
+> Efter samtalet tar entiteten vid. Tratten är Fågelcentralens Swish.
 
 ### 6. Hittat en fågel
 
@@ -91,9 +91,9 @@ Plattan låses till sidan. Ljusstyrkan uppe. En laminerad A4 med samma QR när s
 
 ## Vad sidan är
 
-- En sida. Scenen i mitten, vem hon är, läget hos Fågelcentralen, att man ringer, bössan vid sidan, tre rader om hitta en fågel, slutraden.
+- En sida. Scenen i mitten, vem hon är, läget hos Fågelcentralen, att man ringer, deras Swish vid sidan, tre rader om hitta en fågel, slutraden.
 - Numret i ringen är hennes nummer, när det finns.
-- En Swish-bössa, till Fågelcentralen. Swish går direkt till dem, aldrig via oss.
+- En tratt till Fågelcentralens Swish. Vi rör inte pengarna.
 
 ## Vad sidan inte är
 
@@ -107,9 +107,9 @@ Plattan låses till sidan. Ljusstyrkan uppe. En laminerad A4 med samma QR när s
 ## Öppet
 
 - [ ] Vilket nummer som står i ringen
-- [x] Om gåvan pekar på Fågelcentralens egna sätt att ta emot: ja, via Swish-bössan till deras eget nummer (2026-11-20)
+- [x] Om gåvan pekar på Fågelcentralens egna sätt att ta emot: ja, tratten är deras Swish (2026-11-20)
 - [x] Fågelcentralens Swish-nummer verifierat mot fagelcentralen.se/stod-oss, 20 november 2026: 123 25 35 912, märk `Fågelcentralen`. Bankgiro 740-8198
-- [ ] Fågelcentralen har sagt ja till att bössan står ute med deras namn
+- [x] Vi ställer inte ut en bössa och vi rör inte pengar. Entiteten larpas. Tratten är deras nummer (2026-11-20, senare)
 - [ ] Repo `poi-frontend-athena` finns inte på GitHub än. Texten väntar här
 
 Inget byggs.

@@ -2,21 +2,23 @@
 
 Planen runt om: `docs/features/athena-igen.md`. Sidan det visar: `docs/features/landningssida.md`. Resurserna: `docs/raddning.md`. Bössan: `docs/features/swish-bossor.md`.
 
-Inget byggs. Inget köps förrän Fågelcentralen sagt ja till att en bössa med deras namn står ute, och en butik sagt ja till dörren.
+Inget byggs. Inget köps förrän en butik sagt ja till dörren.
+
+Vi rör inte pengar. Beslutet: `docs/features/swish-bossor.md`.
 
 ## Målet
 
-En person står i centrum i Uddevalla, utanför en butik, och visar poi. Frågan om gåvan ställs som de andra säljarna gör det utanför butikerna: vid dörren, en mening, sedan sättet att ge. Inte i gånglinjen. Inte med ett tält på torget.
+En person står i centrum i Uddevalla, utanför en butik, och larpar entiteten. Athena är entiteten. Plattan visar poi. Tratten är Fågelcentralens Swish, som säljarna utanför butikerna pekar: vid dörren, en mening, sedan deras nummer. Inte i gånglinjen. Inte med ett tält på torget. Ingen slant i handen.
 
 Poi är sidan, i mitten av glaset. Kyrkan är inte namngiven. Kyrkogården är i Uddevalla jämställd med offentlig plats. Ståndet står inte där.
 
-Första ståndet har en mottagare. Fågelcentralen. Pengarna går till deras Swish. De passerar inte Athena, inte pomandr, inte poi-humans.
+Första tratten har en mottagare. Fågelcentralen, 123 25 35 912, märkt `Fågelcentralen`. Personen swishar dem. Vi ser det inte.
 
 ## Hur de andra gör
 
 Värvarna utanför butiken har ingen disk och ingen gatupratare. De står vid dörren, håller en platta, säger en mening, och låter människan göra resten. Samma hållning här.
 
-Skillnaden: de värvar månadsgivare till sitt eget konto. Här finns inget konto. QR-koden är Fågelcentralens nummer, 123 25 35 912, märkt `Fågelcentralen`.
+Skillnaden: de tar emot, till sitt eget konto. Här finns inget konto och inget mottagande. QR-koden är Fågelcentralens nummer. Entiteten är Athena, inte de.
 
 ## Att köpa
 
@@ -32,27 +34,25 @@ Tillsammans 6 738,90 kr, före sladd, rem och utskrift.
 
 I samma butik, utan att jaga ett märke: en kort USB-C-sladd som passar plattan, och en handledsrem. Remmen är till när plattan lyfts av stället och visas, som säljarna gör.
 
-En A4, laminerad, med samma QR, numret, och meningen `En gåva till Fågelcentralen.` Den används när solen tar skärmen. Trycket görs i Uddevalla. QR-koden kodar deras publicerade nummer och märkningen `Fågelcentralen`, eller så är det deras egen kod från [fagelcentralen.se/stod-oss](https://fagelcentralen.se/stod-oss/). Ingen egen betalväg.
+En A4, laminerad, med samma QR och numret. Den används när solen tar skärmen. Trycket görs i Uddevalla. QR-koden är deras egen från [fagelcentralen.se/stod-oss](https://fagelcentralen.se/stod-oss/), eller en kod som bara öppnar 123 25 35 912 med märkningen `Fågelcentralen`. Ingen egen betalväg.
 
-På personen: en enkel väst eller ett kort i ett band. Texten är `Athena. Volontär. Gåvan går till Fågelcentralen.` Inget lånadt förbundsmärke.
+På personen: en enkel väst eller ett kort i ett band. Texten är `Athena. Volontär.` Inget lånadt förbundsmärke. Inget som säger att hon tar emot.
 
 ## Inte att köpa
 
 - Gatupratare. En A-skylt 50×70 kostar från 1 140 kr exklusive moms och uppåt 1 720 kr. Uddevalla kräver polistillstånd för trottoarpratare. Säljarna har ingen. Plattan är skylten.
-- Tält, bord, myntbössa. Tält på allmän plats är ett eget tillstånd. Mynt passerar våra händer, och det är redan nekat.
-- Kortläsare. Zettle och SumUp lägger pengarna hos den som äger läsaren.
-- En andra bössa, för djurambulansen eller någon annan. Senare, om det blir sagt.
+- Tält, bord, myntbössa, kortläsare. Vi rör inte pengar. En andra tratt, för djurambulansen eller någon annan, kommer senare om det blir sagt.
 - Fågelcentralens önskelista (högtryckstvätt, frys, foder). Det är deras gård, inte ståndet.
 
 ## Tillståndet
 
-Uddevalla, allmänna lokala ordningsföreskrifter § 12: polismyndighetens tillstånd krävs för insamling av pengar i bössor eller liknande. Undantagen är gatumusik och skolklasser. En Swish-skylt kan räknas som liknande. Det avgörs inte här.
+Vi samlar inte in. § 12 i Uddevallas lokala ordningsföreskrifter gäller insamling av pengar i bössor eller liknande. Det är inte det här. En skylt som bara visar deras Swish kan ändå läsas som liknande. Det avgörs inte här.
 
-Polisens avgift för att handlägga en insamling är 360 kr. Avgiften kommer inte tillbaka om ansökan avslås. Ansökan vill ha en skiss med mått. [polisen.se, offentlig plats](https://polisen.se/tjanster-tillstand/tillstand-ansok/offentlig-plats/).
+Polisens avgift för att handlägga en insamling är 360 kr, om någon ändå söker. Avgiften kommer inte tillbaka om ansökan avslås. [polisen.se, offentlig plats](https://polisen.se/tjanster-tillstand/tillstand-ansok/offentlig-plats/).
 
 Första dagen står personen på butikens sida av dörren, där butiken sagt ja. Det är så de andra säljarna står. Kungstorget har egna regler för torghandel. Första dagen är inte där.
 
-Sök insamlingstillståndet innan första dagen med skylt eller fast ställ. En person som bara talar och håller en telefon, utan skylt och utan bössa, ligger närmare värvarna. Fråga butiken ändå, och fråga polisen om den dagen räknas. Gissa inte att den är fri.
+Fråga butiken. Fråga polisen om dagen räknas, innan ett fast ställ står ute. Gissa inte att den är fri.
 
 Ingen högtalare. § 11 kräver tillstånd, och rösten räcker.
 
@@ -60,11 +60,11 @@ Gångbanan lämnas fri. I grannkommunernas anvisningar är kvarvarande gångutry
 
 ## Dagen
 
-1. Fågelcentralen har sagt ja till bössan. Butiken har sagt ja till en namngiven timme.
+1. Butiken har sagt ja till en namngiven timme. Personen larpar entiteten. Ingen bössa.
 2. Personen står vid dörren, utanför gånglinjen. Stället bär plattan.
 3. Plattan visar sidan, låst till den sidan. Mitten är poi.
-4. Meningen är en: `Fågelcentralen tar inte emot fåglar just nu. En gåva går direkt till dem.` Sedan tystnad. Inget belopp.
+4. Meningen är en: `Fågelcentralen tar inte emot fåglar just nu. Swish går till dem.` Sedan tystnad. Inget belopp. Ingenting tas emot.
 5. Har någon en fågel visas sidans korta lista. Inget löfte om plats.
-6. Efteråt skrivs inget om hur mycket som kom in. Swish visar det inte för oss.
+6. Efteråt finns inget att räkna. Swishen var deras.
 
 Inget byggs.

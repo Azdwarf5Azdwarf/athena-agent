@@ -10,9 +10,9 @@ Förebild: poi-crm #3, telefon in och SMS som bär beskedet. Och poi-crm #5, mä
 
 1. Någon har talat med Athena.
 2. SMS:et har gått, eller går i slutet av samtalet, med länken till sidan.
-3. poi-humans tar vid. De samlar gåvor till Fågelcentralen. Inte till Athena.
+3. poi-humans tar vid. De larpar entiteten. De pekar på Fågelcentralens Swish. De rör inte pengarna.
 
-Tratten börjar efter det sagda. Ingen gåva före samtalet.
+Tratten börjar efter det sagda. Före samtalet visas ingen Swish. Swishnumret står på sidan, inte i SMS:et.
 
 ## SMS-texten, att klistra in
 
@@ -24,11 +24,11 @@ Inget swishnummer i texten. Inget "ge nu".
 
 ## poi-humans
 
-Människorna samlar gåvorna till Fågelcentralen efter samtalet. Sidan och SMS:et pekar. De tar inte emot pengar.
+Människorna är entiteten efter samtalet. Sidan och SMS:et pekar. Sidan öppnar Fågelcentralens Swish. De rör inte pengar.
 
 Öppet, och det avgörs inte här:
 
-- [ ] Hur en gåva når Fågelcentralen och inte oss
+- [x] Hur en gåva når Fågelcentralen: deras Swish 123 25 35 912. Vi rör den inte (2026-11-20, senare). Se `docs/features/swish-bossor.md`.
 - [ ] Vem av poi-humans som ringer tillbaka när fågeln fortfarande behöver någon
 - [ ] Första SMS:et bara till ett eget nummer
 

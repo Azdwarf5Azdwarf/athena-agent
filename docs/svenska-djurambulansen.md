@@ -18,7 +18,7 @@ Publicerat på [svenskadjurambulansen.se/stod-oss/gava](https://www.svenskadjura
 - **Swish:** 123 618 82 47
 - **Bankgiro:** 146-3934
 
-Första ståndet har ingen bössa till dem. Mottagaren där är Fågelcentralen. Se `docs/features/standet.md`.
+Första ståndet trattar inte hit. Mottagaren där är Fågelcentralens Swish. Vi rör inte pengar. Se `docs/features/standet.md`.
 
 ## Noterbart
 

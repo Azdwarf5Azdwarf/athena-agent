@@ -12,7 +12,7 @@ En av Sveriges storsta rehabiliteringsverksamheter for vilda faglar. Stora flygv
 
 ## Läget (2026-11-20)
 
-Nyligen sagt till oss: de kan inte ta emot fåglar just nu, på grund av trycket. Athena är inte dem. Hon säger det i telefon och på sidan. Gåvor som samlas efter ett samtal är till dem. Plan: `docs/features/athena-igen.md`.
+Nyligen sagt till oss: de kan inte ta emot fåglar just nu, på grund av trycket. Athena är inte dem. Hon säger det i telefon och på sidan. Tratten efter ett samtal är deras Swish. Vi rör inte pengarna. Plan: `docs/features/athena-igen.md`.
 
 ### SVT Nyheter, läst 20 november 2026
 
@@ -31,7 +31,7 @@ Hämtat från deras egen sida [fagelcentralen.se/stod-oss](https://fagelcentrale
 - **Telefon:** 0733-105773. Tider 10–12 och 13–16, alla dagar.
 - Sidfoten skriver också `(0733105779)` intill 073-310 57 73. Det ser ut som ett fel på sidan. Vi ringer inte det numret och vi trycker det inte.
 
-De tar också gåvor via kort på sin sida, Facebook-insamling, Sponsorhuset, kalender och holk. Ståndet använder inte de vägarna. Bössan är Swish, och den ställs inte ut förrän de sagt ja. Se `docs/features/swish-bossor.md`.
+De tar också gåvor via kort på sin sida, Facebook-insamling, Sponsorhuset, kalender och holk. Ståndet använder inte de vägarna. Vi rör inte pengar. Tratten är deras publicerade Swish. Se `docs/features/swish-bossor.md`.
 
 ## Källor
 

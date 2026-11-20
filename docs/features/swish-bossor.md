@@ -9,23 +9,33 @@ Planen runt om: `docs/features/athena-igen.md`. Landningssidan: `docs/features/l
 
 Det här ändrar tidigare linje i `landningssida.md` ("Sidan tar inte betalt") och `tratten.md` ("Inget swishnummer i texten"). Bössan är det nya. SMS:et förblir utan swishnummer och utan "ge nu" tills annat beslutas.
 
+## Beslut (2026-11-20, senare)
+
+Vi rör inte pengar. Ingen slant, ingen läsare, ingen summa, inget konto.
+
+Tratten är deras Swish. Personen swishar Fågelcentralen på 123 25 35 912. Vi ser det inte.
+
+Det vi gör är entiteten. Vi larpar Athena. Hon är inte Fågelcentralen, och hon är inte en kassör.
+
+Bössan på sidan är bara den tratten, synlig. Inte en bössa i handen. Vi ställer inte ut en insamling i deras namn.
+
 ## Vad en bössa är
 
-- En synlig bössa på sidan, en per mottagare. Första bössan: Fågelcentralen.
-- Swish går direkt till mottagarens egna Swish-nummer. Pengarna passerar aldrig Athena, pomandr eller poi-humans.
-- Ingen brådska, inga belopp som tjatar. Slången i bössan, som förr.
-- Gärna en QR-kod för Swish på dator, och en Swish-länk på mobil.
+- En synlig tratt på sidan, en per mottagare. Första tratten: Fågelcentralen.
+- Swish går direkt till mottagarens egna Swish-nummer. Vi rör inte pengarna.
+- Ingen brådska, inga belopp som tjatar.
+- En QR-kod för Swish på dator, och en Swish-länk på mobil. Båda öppnar deras nummer.
 
 ## Vad en bössa inte är
 
-- Inte vår insamling i deras namn. Det står tydligt vem pengarna går till.
-- Inte ett nummer vi gissat. Numret hämtas från mottagarens egen webbplats och bekräftas med dem.
+- Inte vår insamling. Inte en bössa vi håller, skramlar eller räknar.
+- Inte ett nummer vi gissat. Numret hämtas från mottagarens egen webbplats.
 
 ## Öppet
 
 - [x] Fågelcentralens Swish-nummer, verifierat mot fagelcentralen.se/stod-oss 20 november 2026: 123 25 35 912, märk `Fågelcentralen`. Bankgiro 740-8198. Se `docs/fagelcentralen.md`.
-- [ ] Fråga Fågelcentralen om det är okej att vi ställer ut en bössa för dem. Numret är publicerat. Ståndet ute väntar på svaret. De svarar i telefon, på sina tider, inte på mejl.
-- [ ] Visar bössan hur mycket som samlats? (kräver data från mottagaren, Swish visar det inte för oss)
+- [x] Ingen bössa ställs ut. Vi rör inte pengar. Tratten är deras publicerade Swish (2026-11-20, senare).
+- [x] Bössan visar ingen summa. Vi har ingen. (2026-11-20, senare)
 - [ ] Fler bössor senare, för andra skyddshem och räddningsgrupper
 
 Inget byggs.
