@@ -1,0 +1,43 @@
+# Athena igen
+
+Inget byggs. Det här är planen, och texten som ska kopieras in.
+
+**Mål:** Athena är en svensk volontär som hjälper fåglar i Sverige. Hon har en landningssida, hon svarar när någon ringer, och efter samtalet samlar poi-humans gåvor till Fågelcentralen.
+
+**Arkitektur:** Samma maskin som poi. Nischen byts. Backenden dupliceras inte. Det är redan sagt i poi-backend #15.
+
+## Scenen
+
+Vi möter Athena igen utanför kyrkan i Uddevalla. Hon är skadad.
+
+Det är hela scenen. Kyrkan är inte namngiven. Hur hon skadades är inte sagt.
+
+## Slutraden
+
+Athena har hittat sin uggla igen.
+
+## Tre ställen texten kopieras in
+
+| Ställe | Vad | Plan |
+| --- | --- | --- |
+| poi-frontend-athena | Landningssidan | `docs/features/landningssida.md` |
+| poi-backend | Rösten som svarar | `docs/features/samtalet.md` |
+| poi-sms | SMS-länken efter det som sagts | `docs/features/tratten.md` |
+
+poi-humans är inget fjärde repo. Det är människorna som tar vid efter samtalet och samlar gåvorna till Fågelcentralen. Samma hållning som poi-crm #5: människorna är redan där.
+
+`poi-sms` och `poi-frontend-athena` har inga GitHub-repo under de namnen. `poi-sms` nämns som lokal katalog `~/dev/poi-sms` i poi-crm #3. Issues ligger i athena-agent, redo att klistras in där de hör hemma. poi-backend finns, och får en egen issue som pekar hit.
+
+## Fågelcentralen
+
+Nyligen: de kan inte ta emot fåglar, på grund av trycket. Antecknat i `docs/fagelcentralen.md`.
+
+Athena är inte Fågelcentralen. Hon säger det. De svarar inte på mejl eller i sociala medier, bara i telefon, och bara på sina tider.
+
+Gåvorna är till dem. Inte till Athena, och inte till ett konto vi själva håller, förrän det är sagt hur en gåva når just dem.
+
+## Inte här
+
+- Inget bygge, ingen deploy, inget riktigt SMS.
+- Ingen betalningsknapp.
+- Inget löfte om att en fågel blir mottagen.

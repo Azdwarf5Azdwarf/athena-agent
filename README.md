@@ -15,3 +15,5 @@ Det har repot vaxer med Athenas arbete:
 ## Status
 
 Nyskapat. Vi fyller pa.
+
+Planen är `docs/features/athena-igen.md`. Inget är byggt. Athena är en svensk volontär för fåglar: landningssida, hon svarar i telefon, och poi-humans samlar gåvor till Fågelcentralen efter samtalet. Fågelcentralen kan inte ta emot just nu, trycket är för högt. Vi möter henne igen utanför kyrkan i Uddevalla. Hon är skadad. Athena har hittat sin uggla igen.
