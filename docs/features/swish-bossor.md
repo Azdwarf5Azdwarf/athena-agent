@@ -23,8 +23,8 @@ Det här ändrar tidigare linje i `landningssida.md` ("Sidan tar inte betalt") o
 
 ## Öppet
 
-- [ ] Fågelcentralens Swish-nummer, verifierat mot fagelcentralen.se och med dem. (En Instagram-kommentar anger 123 25 35 912, ej verifierat, se `docs/fagelcentralen.md`.)
-- [ ] Fråga Fågelcentralen om det är okej att vi ställer ut en bössa för dem
+- [x] Fågelcentralens Swish-nummer, verifierat mot fagelcentralen.se/stod-oss 20 november 2026: 123 25 35 912, märk `Fågelcentralen`. Bankgiro 740-8198. Se `docs/fagelcentralen.md`.
+- [ ] Fråga Fågelcentralen om det är okej att vi ställer ut en bössa för dem. Numret är publicerat. Ståndet ute väntar på svaret. De svarar i telefon, på sina tider, inte på mejl.
 - [ ] Visar bössan hur mycket som samlats? (kräver data från mottagaren, Swish visar det inte för oss)
 - [ ] Fler bössor senare, för andra skyddshem och räddningsgrupper
 

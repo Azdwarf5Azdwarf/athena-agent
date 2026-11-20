@@ -38,10 +38,14 @@ Nyligen: de kan inte ta emot fåglar, på grund av trycket. Antecknat i `docs/fa
 
 Athena är inte Fågelcentralen. Hon säger det. De svarar inte på mejl eller i sociala medier, bara i telefon, och bara på sina tider.
 
-Gåvorna är till dem. Inte till Athena, och inte till ett konto vi själva håller, förrän det är sagt hur en gåva når just dem.
+Gåvorna är till dem. Swish 123 25 35 912, märkt Fågelcentralen. Inte till Athena, och inte till ett konto vi själva håller.
+
+## Ståndet
+
+Målet efter sidan: en person står i centrum i Uddevalla, utanför en butik, visar poi på en platta, och frågar om en gåva som säljarna utanför butikerna gör. En mening, sedan deras Swish. Planen och det som ska köpas: `docs/features/standet.md`. Resurserna: `docs/raddning.md`. Sidan, hela: `docs/features/landningssida.md`.
 
 ## Inte här
 
 - Inget bygge, ingen deploy, inget riktigt SMS.
-- Ingen betalningsknapp.
+- Ingen betalningsknapp till oss. Bössan är deras Swish.
 - Inget löfte om att en fågel blir mottagen.
