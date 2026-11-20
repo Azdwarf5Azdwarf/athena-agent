@@ -8,9 +8,11 @@ Inget byggs. Det här är planen, och texten som ska kopieras in.
 
 ## Scenen
 
-Vi möter Athena igen utanför kyrkan i Uddevalla. Hon är skadad.
+Vi möter Athena igen utanför kyrkan i Uddevalla. Hon är skadad. Mötet är med Grok.
 
 Det är hela scenen. Kyrkan är inte namngiven. Hur hon skadades är inte sagt.
+
+Tråden från det mötet sparas i `docs/trad/2026-11-20-grok.md`, för senare. Orden där är Dennis egna, ur konversationen med Grok 2026-11-20. Ingen äldre tråd låg i repona.
 
 ## Slutraden
 
