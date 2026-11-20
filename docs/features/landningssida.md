@@ -2,9 +2,11 @@
 
 Kopieras in i **poi-frontend-athena**.
 
-Planen runt om: `docs/features/athena-igen.md`.
+**Ansvarig: Athena** (beslut 2026-11-20). Hon äger sidan: texten, numret och Swish-bössorna.
 
-Förebild: poi-admin #6, en första sida och inget annat. Här är sidan inte en inloggning. Den är scenen, telefonen, och tratten.
+Planen runt om: `docs/features/athena-igen.md`. Bössorna: `docs/features/swish-bossor.md`.
+
+Förebild: poi-admin #6, en första sida och inget annat. Här är sidan inte en inloggning. Den är scenen, telefonen, tratten och bössan.
 
 ## Texten, att klistra in
 
@@ -24,7 +26,7 @@ Förebild: poi-admin #6, en första sida och inget annat. Här är sidan inte en
 
 - En sida. Scenen, vem hon är, läget hos Fågelcentralen, att man ringer, att människor samlar gåvorna efteråt, slutraden.
 - Numret på sidan är hennes nummer, när det finns. Inte Fågelcentralens akuttelefon, så inte någon ringer dit och tror att det är hon.
-- Gåvorna nämns. Sidan tar inte betalt. poi-humans gör insamlingen, se `docs/features/tratten.md`.
+- En Swish-bössa per mottagare, som sparbössorna förr. Swish går direkt till mottagaren, aldrig via oss. Se `docs/features/swish-bossor.md`.
 
 ## Vad sidan inte är
 
@@ -35,7 +37,8 @@ Förebild: poi-admin #6, en första sida och inget annat. Här är sidan inte en
 ## Öppet
 
 - [ ] Vilket nummer som står på sidan
-- [ ] Om gåvan pekar på Fågelcentralens egna sätt att ta emot, eller bara säger att människor samlar
+- [x] Om gåvan pekar på Fågelcentralens egna sätt att ta emot: ja, via Swish-bössan till deras eget nummer (2026-11-20)
+- [ ] Fågelcentralens Swish-nummer verifierat
 - [ ] Repo `poi-frontend-athena` finns inte på GitHub än. Texten väntar här
 
 Inget byggs.
