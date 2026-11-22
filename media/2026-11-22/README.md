@@ -13,8 +13,6 @@ Kanal 5 Sverige. Varje länk är klippets egen stillbild.
 | Vaccinpasset saknas. Hunden riskerar avlivning. | https://i.ytimg.com/vi/N3H4TrHUDAM/hqdefault.jpg | https://www.youtube.com/watch?v=N3H4TrHUDAM |
 | Samma läge, ett annat klipp. | https://i.ytimg.com/vi/xHT2BEVE4gM/hqdefault.jpg | https://www.youtube.com/watch?v=xHT2BEVE4gM |
 | Misstänkt djurplågeri. Rabies står i titeln. | https://i.ytimg.com/vi/ZNdFjt2OJrU/hqdefault.jpg | https://www.youtube.com/watch?v=ZNdFjt2OJrU |
-| Gränspolisen beslagtar bilen, före road tripen. | https://i.ytimg.com/vi/KRRTWavvL9g/hqdefault.jpg | https://www.youtube.com/watch?v=KRRTWavvL9g |
-| Bilens historia går inte ihop. | https://i.ytimg.com/vi/jRwsvzlb4UY/hqdefault.jpg | https://www.youtube.com/watch?v=jRwsvzlb4UY |
 
 ## Tullverkets foton, hos SVT
 
